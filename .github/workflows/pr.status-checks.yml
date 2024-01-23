@@ -47,3 +47,9 @@ jobs:
       with:
         recreate: true
         path: code-coverage-results.md
+
+    - name: ReportGenerator
+      uses: danielpalme/ReportGenerator-GitHub-Action@5.2.0
+      with:
+        reports: ./coverage/coverage.cobertura.xml
+        targetdir: coveragereport
