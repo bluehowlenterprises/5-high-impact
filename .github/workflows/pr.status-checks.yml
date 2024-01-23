@@ -18,7 +18,7 @@ jobs:
         dotnet-version: 7.0.x
 
     - name: Restore Dependencies
-      run: dotnet restore src/Example.sln
+      run: dotnet restore Impact/Impact.sln
 
     - name: Build
       run: dotnet build Impact/Impact.sln --configuration Release --no-restore
