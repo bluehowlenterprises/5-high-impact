@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EOaedL4RFiTQCDuL+BLgc+XI+yKA80Id78rtKeF8KNHucySmEpxs8ooZrNSMP7iOXB3wKpnOhQVXxph5c8Teuw==",
+  "dgSpecHash": "MSjXzleCvJHsxdZtU33Ojn2bGOETn5yQHZY3AxJhVHrw5qc2hM4J0KyfaYOvfeBYMvo3XKPSc4xkapiXgreyNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\charl\\source\\repos\\5-high-impact\\Impact\\Impact.csproj",
   "expectedPackageFiles": [
@@ -70,7 +70,11 @@
     "C:\\Users\\charl\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\charl\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\charl\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\charl\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\charl\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImpactTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b67df13805ed3c3949b57cf940194739b5135e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cefbea4c004cdc1324d5cba20819b616c445efea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImpactTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImpactTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
