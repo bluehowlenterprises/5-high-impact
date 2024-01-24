@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LB61sEbPJAc9MfAblWxCy9JQYd0I6Kb4QwxImGmg1hzRdcC9WVlmLPn9e5MpTtat8L6XDnQkUQTd5ZihTFGnUA==",
+  "dgSpecHash": "u0rUU7kxP0TbYVsIUxtyXbo7P55fZOu8BASz768XkFqcMu0b5Zi+e5lualMJmmProhPWq5ZeQlG1d1vKW5Ko/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\charl\\source\\repos\\5-high-impact\\ImpactTests\\ImpactTests.csproj",
   "expectedPackageFiles": [
@@ -161,7 +161,10 @@
     "C:\\Users\\charl\\.nuget\\packages\\xunit.core\\2.4.2\\xunit.core.2.4.2.nupkg.sha512",
     "C:\\Users\\charl\\.nuget\\packages\\xunit.extensibility.core\\2.4.2\\xunit.extensibility.core.2.4.2.nupkg.sha512",
     "C:\\Users\\charl\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512",
-    "C:\\Users\\charl\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512"
+    "C:\\Users\\charl\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

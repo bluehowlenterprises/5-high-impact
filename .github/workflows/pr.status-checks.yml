@@ -8,7 +8,7 @@ jobs:
   build:
     permissions: write-all
     runs-on: ubuntu-latest
-    name: PR - Status Check
+    name: Testing
     steps:
     - name: Checkout
       uses: actions/checkout@v2
