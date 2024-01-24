@@ -24,4 +24,4 @@ jobs:
       run: dotnet build Impact/Impact.sln --configuration Release --no-restore
 
     - name: Format
-      run: dotnet format --verify-no-changes
+      run: dotnet format Impact/Impact.sln --verify-no-changes
